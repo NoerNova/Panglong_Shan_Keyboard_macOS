@@ -5,7 +5,7 @@
 	<key>CFBundleIdentifier</key>
 	<string>org.sil.ukelele.keyboardlayout.ipanglong(2021)bundle</string>
 	<key>CFBundleName</key>
-	<string>iPanglong(2021) Bundle</string>
+	<string>Shan_iPanglong(2021)</string>
 	<key>CFBundleVersion</key>
 	<string>2.0</string>
 	<key>KLInfo_Shan</key>
@@ -15,7 +15,7 @@
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.ipanglong(2021)bundle.shan</string>
 		<key>TISIntendedLanguage</key>
-		<string>shn-Mymr-MM</string>
+		<string>shn</string>
 	</dict>
 </dict>
 </plist>
