@@ -19,7 +19,7 @@ Unofficial custom "panglong keyboard" layout for **macOS**.
 ----------------------------------------------------
 ### Install
 
-- Downloads [Shan_iPanglong.dmg](https://github.com/NoerNova/Panglong_Shan_Keyboard_macOS)
+- Downloads [Shan_iPanglong.dmg](https://github.com/NoerNova/Panglong_Shan_Keyboard_macOS/releases/download/v1.1/Shan_iPanglong.dmg)
   - Mount by double click ***Shan_iPanglong.dmg***
   - Copy Shan_iPanglong.bundle to /Users/**${username}**/Library/Keyboard Layouts
 - (Or) 
