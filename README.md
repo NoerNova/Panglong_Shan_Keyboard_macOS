@@ -28,6 +28,8 @@ Unofficial custom "panglong keyboard" layout for **macOS**.
 
 
 ----------------------------------------------------
+### Note
+**Using Caps Lock for typing in English layout, not a bug it's a feature** ;).
 
 ## License
 Apache 2.0
