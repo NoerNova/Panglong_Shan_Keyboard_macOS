@@ -15,6 +15,8 @@ Unofficial custom "panglong keyboard" layout for **macOS**.
   - Panglong Keyboard Custom CapsLock 2022.
   - Bundle and keylayout files. (create with [ukelele](https://software.sil.org/ukelele/))
 
+**Custom CapsLock version is the custom version for English(QWERTY) typing when CapsLock key is down**
+
 ### Tested on
 
 - OS
