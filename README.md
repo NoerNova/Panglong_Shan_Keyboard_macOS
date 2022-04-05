@@ -4,8 +4,16 @@ Unofficial custom "panglong keyboard" layout for **macOS**.
 
 ---------------------------
 ### Include
-- Panglong Keyboard Custom 2021.
-- Bundle and keylayout files. (create with [ukelele](https://software.sil.org/ukelele/))
+
+2021
+  - Panglong Keyboard Custom 2021.
+  - Bundle and keylayout files. (create with [ukelele](https://software.sil.org/ukelele/))
+
+2022
+  - Panglong Keyboard 2022
+  - Bundle and keylayout files. (create with [ukelele](https://software.sil.org/ukelele/))
+  - Panglong Keyboard Custom CapsLock 2022.
+  - Bundle and keylayout files. (create with [ukelele](https://software.sil.org/ukelele/))
 
 ### Tested on
 

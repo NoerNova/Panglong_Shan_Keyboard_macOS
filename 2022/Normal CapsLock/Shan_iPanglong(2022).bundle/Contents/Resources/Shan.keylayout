@@ -1,8 +1,8 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 343 on 2564-04-15 at 15:57 (GMT+7)-->
-<!--Last edited by Ukelele version 351 on 2565-04-05 at 18:11 (GMT+7)-->
-<keyboard group="126" id="-19135" name="Panglong Shan Keyboard" maxout="1">
+<!--Last edited by Ukelele version 351 on 2565-04-05 at 22:33 (GMT+7)-->
+<keyboard group="126" id="-9733" name="Shan" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
         <layout first="18" last="18" mapSet="JIS" modifiers="Modifiers"/>
