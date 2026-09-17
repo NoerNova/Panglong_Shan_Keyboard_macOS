@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.panglongkeyboard(customcapslock)</string>
+	<key>CFBundleName</key>
+	<string>Shan_iPanglong_customCapsLock(2026)</string>
+	<key>CFBundleVersion</key>
+	<string>2026.09.1</string>
+	<key>KLInfo_Shan</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.panglongkeyboard(customcapslock).shan</string>
+		<key>TISIntendedLanguage</key>
+		<string>shn</string>
+	</dict>
+</dict>
+</plist>
